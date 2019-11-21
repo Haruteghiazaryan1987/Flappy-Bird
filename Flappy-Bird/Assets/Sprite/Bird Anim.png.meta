@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: e691ff287531e0f42b4f5c746c1d80a1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 83127-sprite-area-line-animated-bird-film-thumb_0
+    21300002: 83127-sprite-area-line-animated-bird-film-thumb_1
+    21300004: 83127-sprite-area-line-animated-bird-film-thumb_2
+    21300006: 83127-sprite-area-line-animated-bird-film-thumb_3
+    21300008: 83127-sprite-area-line-animated-bird-film-thumb_4
+    21300010: 83127-sprite-area-line-animated-bird-film-thumb_5
+    21300012: 83127-sprite-area-line-animated-bird-film-thumb_6
+    21300014: 83127-sprite-area-line-animated-bird-film-thumb_7
+    21300016: 83127-sprite-area-line-animated-bird-film-thumb_8
+    21300018: 83127-sprite-area-line-animated-bird-film-thumb_9
+    21300020: 83127-sprite-area-line-animated-bird-film-thumb_10
+    21300022: 83127-sprite-area-line-animated-bird-film-thumb_11
+    21300024: 83127-sprite-area-line-animated-bird-film-thumb_12
+    21300026: 83127-sprite-area-line-animated-bird-film-thumb_13
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6270568, y: 0.40198496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ea07c646ffea41a89e73c8d27c2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6030189, y: 0.39109454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f8501d42a186b4bb7c868f74de79bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 122
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6345309, y: 0.4075951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca27ba96eb61d4d853aedb4955b8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 122
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6715263, y: 0.46426535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953bfa332d93c04480ac0032cf33dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6376448, y: 0.6651738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a20c7245c44e46be86f6a85bce738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 79
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6133208, y: 0.6967333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b12a76ff96e84897b4165ab8c8a72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 79
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5927172, y: 0.67214155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79222bc1a6f4a8e4ca1c1889f18535d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6164691, y: 0.6225191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e7e29c82d2b94cb857d95a5d86d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 81
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.60588115, y: 0.63143814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991291378a392cb408ee4c382db4b29b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.62362266, y: 0.5988219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc418595c9ea5458d49fe7d916f740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.63068676, y: 0.5988219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e90e89e0df2a44a401bbcee0b3a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6958321, y: 0.46188292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3244d8dd75e44dbfe04d8e7805aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6715263, y: 0.44224688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cacdc47d81c5a42868fe71fc97afc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83127-sprite-area-line-animated-bird-film-thumb_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.68105584, y: 0.4266981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc721cc9a255042af09c2e78c98f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -95, y: 19}
+      - {x: -95, y: 58}
+      - {x: -61, y: 58}
+      - {x: -61, y: 19}
+    - - {x: -55, y: 19}
+      - {x: -55, y: 58}
+      - {x: -20, y: 58}
+      - {x: -20, y: 19}
+    - - {x: -15, y: 16}
+      - {x: -15, y: 59}
+      - {x: 18, y: 59}
+      - {x: 18, y: 16}
+    - - {x: 20, y: 19}
+      - {x: 20, y: 54}
+      - {x: 59, y: 54}
+      - {x: 59, y: 19}
+    - - {x: 59, y: 25}
+      - {x: 59, y: 53}
+      - {x: 99, y: 53}
+      - {x: 99, y: 25}
+    - - {x: -96, y: -21}
+      - {x: -96, y: 11}
+      - {x: -60, y: 11}
+      - {x: -60, y: -21}
+    - - {x: -55, y: -21}
+      - {x: -55, y: 12}
+      - {x: -20, y: 12}
+      - {x: -20, y: -21}
+    - - {x: -16, y: -21}
+      - {x: -16, y: 13}
+      - {x: 19, y: 13}
+      - {x: 19, y: -21}
+    - - {x: 24, y: -19}
+      - {x: 24, y: 12}
+      - {x: 59, y: 12}
+      - {x: 59, y: -19}
+    - - {x: 64, y: -21}
+      - {x: 64, y: 13}
+      - {x: 98, y: 13}
+      - {x: 98, y: -21}
+    - - {x: -96, y: -56}
+      - {x: -96, y: -28}
+      - {x: -61, y: -28}
+      - {x: -61, y: -56}
+    - - {x: -56, y: -59}
+      - {x: -56, y: -28}
+      - {x: -21, y: -28}
+      - {x: -21, y: -59}
+    - - {x: -19, y: -58}
+      - {x: -19, y: -27}
+      - {x: 18, y: -27}
+      - {x: 18, y: -58}
+    - - {x: 18, y: -52}
+      - {x: 18, y: -24}
+      - {x: 60, y: -24}
+      - {x: 60, y: -52}
+    physicsShape:
+    - - {x: -78, y: -29}
+      - {x: -92, y: -31}
+      - {x: -94, y: -33}
+      - {x: -94, y: -44}
+      - {x: -87, y: -55}
+      - {x: -73, y: -55}
+      - {x: -61, y: -44}
+      - {x: -61, y: -38}
+      - {x: -69, y: -29}
+    - - {x: -40, y: -29}
+      - {x: -54, y: -32}
+      - {x: -54, y: -53}
+      - {x: -53, y: -55}
+      - {x: -27, y: -55}
+      - {x: -22, y: -46}
+      - {x: -22, y: -38}
+      - {x: -31, y: -29}
+    - - {x: 57, y: -24}
+      - {x: 37, y: -24}
+      - {x: 20, y: -27}
+      - {x: 17, y: -32}
+      - {x: 17, y: -38}
+      - {x: 26, y: -48}
+      - {x: 31, y: -52}
+      - {x: 42, y: -52}
+      - {x: 48, y: -51}
+      - {x: 58, y: -43}
+      - {x: 58, y: -34}
+    - - {x: -17, y: -30}
+      - {x: -20, y: -45}
+      - {x: -20, y: -49}
+      - {x: -17, y: -50}
+      - {x: -14, y: -47}
+      - {x: -7, y: -51}
+      - {x: 7, y: -51}
+      - {x: 15, y: -49}
+      - {x: 20, y: -41}
+      - {x: 20, y: -30}
+    - - {x: -29, y: 9}
+      - {x: -45, y: 9}
+      - {x: -53, y: 8}
+      - {x: -54, y: 5}
+      - {x: -54, y: -8}
+      - {x: -47, y: -20}
+      - {x: -35, y: -20}
+      - {x: -24, y: -16}
+      - {x: -21, y: -5}
+      - {x: -21, y: -2}
+      - {x: -22, y: 0}
+    - - {x: 11, y: 9}
+      - {x: 0, y: 9}
+      - {x: -12, y: 7}
+      - {x: -15, y: 4}
+      - {x: -15, y: -6}
+      - {x: -7, y: -20}
+      - {x: 6, y: -20}
+      - {x: 19, y: -4}
+      - {x: 19, y: -3}
+      - {x: 18, y: 0}
+    - - {x: -81, y: 9}
+      - {x: -92, y: 7}
+      - {x: -94, y: 3}
+      - {x: -94, y: -15}
+      - {x: -93, y: -19}
+      - {x: -62, y: -19}
+      - {x: -61, y: -14}
+      - {x: -61, y: 0}
+      - {x: -68, y: 9}
+    - - {x: 80, y: 9}
+      - {x: 75, y: 8}
+      - {x: 68, y: 6}
+      - {x: 65, y: 2}
+      - {x: 65, y: -3}
+      - {x: 67, y: -8}
+      - {x: 71, y: -15}
+      - {x: 75, y: -18}
+      - {x: 86, y: -18}
+      - {x: 97, y: -12}
+      - {x: 97, y: 0}
+      - {x: 91, y: 9}
+    - - {x: 25, y: 9}
+      - {x: 25, y: -14}
+      - {x: 31, y: -17}
+      - {x: 43, y: -17}
+      - {x: 49, y: -14}
+      - {x: 58, y: -6}
+      - {x: 58, y: 1}
+      - {x: 54, y: 9}
+    - - {x: -76, y: 54}
+      - {x: -81, y: 56}
+      - {x: -84, y: 55}
+      - {x: -83, y: 55}
+      - {x: -87, y: 56}
+      - {x: -91, y: 56}
+      - {x: -94, y: 54}
+      - {x: -94, y: 27}
+      - {x: -90, y: 22}
+      - {x: -74, y: 22}
+      - {x: -71, y: 23}
+      - {x: -61, y: 29}
+      - {x: -61, y: 35}
+    - - {x: -54, y: 56}
+      - {x: -54, y: 33}
+      - {x: -49, y: 22}
+      - {x: -36, y: 22}
+      - {x: -25, y: 24}
+      - {x: -21, y: 29}
+      - {x: -21, y: 40}
+      - {x: -26, y: 56}
+    - - {x: 7, y: 54}
+      - {x: -14, y: 54}
+      - {x: -15, y: 53}
+      - {x: -15, y: 23}
+      - {x: 9, y: 23}
+      - {x: 17, y: 25}
+      - {x: 18, y: 27}
+      - {x: 18, y: 37}
+      - {x: 10, y: 52}
+    - - {x: 35, y: 53}
+      - {x: 19, y: 46}
+      - {x: 19, y: 29}
+      - {x: 29, y: 23}
+      - {x: 56, y: 23}
+      - {x: 58, y: 27}
+      - {x: 58, y: 47}
+      - {x: 57, y: 53}
+    - - {x: 91, y: 46}
+      - {x: 73, y: 46}
+      - {x: 66, y: 45}
+      - {x: 57, y: 37}
+      - {x: 57, y: 27}
+      - {x: 61, y: 24}
+      - {x: 84, y: 24}
+      - {x: 86, y: 25}
+      - {x: 95, y: 30}
+      - {x: 100, y: 38}
+      - {x: 100, y: 41}
+    bones: []
+    spriteID: 1bbbc974e0d8b8f4aa583a93deec7be1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
